@@ -1,3 +1,6 @@
 .DS_Store
 function/.DS_Store
 function/.idea
+function/__pycache__/
+module/.idea/
+module/__pycache__/
